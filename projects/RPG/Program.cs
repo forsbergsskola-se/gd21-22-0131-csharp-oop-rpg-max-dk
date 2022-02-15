@@ -51,6 +51,15 @@
     }
 }
 
+public class Necromancer : Unit
+{
+    public bool hasResurrected;
+    public Necromancer(string name, int maxHealth) : base(name, maxHealth){}
+
+   
+
+}
+
 class Program
 {
     static void Main()

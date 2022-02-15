@@ -16,7 +16,7 @@
 
             for (int i = 0; i <= 10; i++)
             {
-                Console.WriteLine($"I rolled {i} a total of {array[i]}");
+                Console.WriteLine($"I rolled {i} a total of {array[i]} times");
             }
            
         }
